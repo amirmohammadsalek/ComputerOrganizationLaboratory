@@ -1,0 +1,6 @@
+V3 3
+FL "C:/Users/ASA/Desktop/Az Ajza/ALU/ALU.vhd" 2025/03/01.12:15:25 P.20131013
+EN work/ALU 1740860127 FL "C:/Users/ASA/Desktop/Az Ajza/ALU/ALU.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/ALU/Behavioral 1740860128 \
+      FL "C:/Users/ASA/Desktop/Az Ajza/ALU/ALU.vhd" EN work/ALU 1740860127
