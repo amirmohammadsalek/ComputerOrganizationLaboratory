@@ -1,1 +1,6 @@
+vhdl work "xor_func.vhd"
+vhdl work "or_func.vhd"
+vhdl work "not_func.vhd"
+vhdl work "buff_func.vhd"
+vhdl work "and_func.vhd"
 vhdl work "ALU.vhd"

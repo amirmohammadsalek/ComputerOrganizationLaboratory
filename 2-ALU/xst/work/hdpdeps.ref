@@ -1,6 +1,32 @@
-V3 3
-FL "C:/Users/ASA/Desktop/Az Ajza/ALU/ALU.vhd" 2025/03/01.12:15:25 P.20131013
-EN work/ALU 1740860127 FL "C:/Users/ASA/Desktop/Az Ajza/ALU/ALU.vhd" \
+V3 23
+FL "C:/Users/ASA/Desktop/Az Ajza/ALU/ALU.vhd" 2025/03/16.00:20:08 P.20131013
+EN work/ALU 1742110190 FL "C:/Users/ASA/Desktop/Az Ajza/ALU/ALU.vhd" \
       PB ieee/std_logic_1164 1381692176
-AR work/ALU/Behavioral 1740860128 \
-      FL "C:/Users/ASA/Desktop/Az Ajza/ALU/ALU.vhd" EN work/ALU 1740860127
+AR work/ALU/Behavioral 1742110191 \
+      FL "C:/Users/ASA/Desktop/Az Ajza/ALU/ALU.vhd" EN work/ALU 1742110190 \
+      CP buff_func CP and_func CP or_func CP xor_func CP not_func
+FL "C:/Users/ASA/Desktop/Az Ajza/ALU/and_func.vhd" 2025/03/15.23:36:54 P.20131013
+EN work/and_func 1742110182 FL "C:/Users/ASA/Desktop/Az Ajza/ALU/and_func.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/and_func/Behavioral 1742110183 \
+      FL "C:/Users/ASA/Desktop/Az Ajza/ALU/and_func.vhd" EN work/and_func 1742110182
+FL "C:/Users/ASA/Desktop/Az Ajza/ALU/buff_func.vhd" 2025/03/16.00:06:10 P.20131013
+EN work/buff_func 1742110180 FL "C:/Users/ASA/Desktop/Az Ajza/ALU/buff_func.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/buff_func/Behavioral 1742110181 \
+      FL "C:/Users/ASA/Desktop/Az Ajza/ALU/buff_func.vhd" EN work/buff_func 1742110180
+FL "C:/Users/ASA/Desktop/Az Ajza/ALU/not_func.vhd" 2025/03/16.00:06:10 P.20131013
+EN work/not_func 1742110188 FL "C:/Users/ASA/Desktop/Az Ajza/ALU/not_func.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/not_func/Behavioral 1742110189 \
+      FL "C:/Users/ASA/Desktop/Az Ajza/ALU/not_func.vhd" EN work/not_func 1742110188
+FL "C:/Users/ASA/Desktop/Az Ajza/ALU/or_func.vhd" 2025/03/16.00:29:19 P.20131013
+EN work/or_func 1742110184 FL "C:/Users/ASA/Desktop/Az Ajza/ALU/or_func.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/or_func/Behavioral 1742110185 \
+      FL "C:/Users/ASA/Desktop/Az Ajza/ALU/or_func.vhd" EN work/or_func 1742110184
+FL "C:/Users/ASA/Desktop/Az Ajza/ALU/xor_func.vhd" 2025/03/16.00:29:38 P.20131013
+EN work/xor_func 1742110186 FL "C:/Users/ASA/Desktop/Az Ajza/ALU/xor_func.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/xor_func/Behavioral 1742110187 \
+      FL "C:/Users/ASA/Desktop/Az Ajza/ALU/xor_func.vhd" EN work/xor_func 1742110186

@@ -1,0 +1,7 @@
+vhdl isim_temp "xor_func.vhd"
+vhdl isim_temp "or_func.vhd"
+vhdl isim_temp "not_func.vhd"
+vhdl isim_temp "buff_func.vhd"
+vhdl isim_temp "and_func.vhd"
+vhdl isim_temp "ALU.vhd"
+vhdl isim_temp "test1.vhd"

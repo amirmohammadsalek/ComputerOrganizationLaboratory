@@ -1,2 +1,12 @@
-AR alu behavioral "C:/Users/ASA/Desktop/Az Ajza/ALU/ALU.vhd" sub00/vhpl01 1740860128
-EN alu NULL "C:/Users/ASA/Desktop/Az Ajza/ALU/ALU.vhd" sub00/vhpl00 1740860127
+EN not_func NULL "C:/Users/ASA/Desktop/Az Ajza/ALU/not_func.vhd" sub00/vhpl10 1742110188
+AR xor_func behavioral "C:/Users/ASA/Desktop/Az Ajza/ALU/xor_func.vhd" sub00/vhpl09 1742110187
+AR not_func behavioral "C:/Users/ASA/Desktop/Az Ajza/ALU/not_func.vhd" sub00/vhpl11 1742110189
+AR and_func behavioral "C:/Users/ASA/Desktop/Az Ajza/ALU/and_func.vhd" sub00/vhpl03 1742110183
+EN or_func NULL "C:/Users/ASA/Desktop/Az Ajza/ALU/or_func.vhd" sub00/vhpl06 1742110184
+AR or_func behavioral "C:/Users/ASA/Desktop/Az Ajza/ALU/or_func.vhd" sub00/vhpl07 1742110185
+EN xor_func NULL "C:/Users/ASA/Desktop/Az Ajza/ALU/xor_func.vhd" sub00/vhpl08 1742110186
+AR buff_func behavioral "C:/Users/ASA/Desktop/Az Ajza/ALU/buff_func.vhd" sub00/vhpl05 1742110181
+EN and_func NULL "C:/Users/ASA/Desktop/Az Ajza/ALU/and_func.vhd" sub00/vhpl02 1742110182
+EN buff_func NULL "C:/Users/ASA/Desktop/Az Ajza/ALU/buff_func.vhd" sub00/vhpl04 1742110180
+AR alu behavioral "C:/Users/ASA/Desktop/Az Ajza/ALU/ALU.vhd" sub00/vhpl01 1742110191
+EN alu NULL "C:/Users/ASA/Desktop/Az Ajza/ALU/ALU.vhd" sub00/vhpl00 1742110190
