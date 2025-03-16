@@ -99,8 +99,6 @@ architecture Behavioral of ALU is
 	signal f07 : std_logic_vector(7 downto 0);
 	
 	signal f_r : std_logic_vector(7 downto 0);
-	
-	--signal C : std_logic_vector(7 downto 0);
 
 begin
 
